@@ -4,8 +4,8 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=harbour-todolist
-Exec=harbour-todolist
+Icon=moe.smoothie.todolist
+Exec=moe.smoothie.todolist
 Name=To-do List
 
 # TRANSLATORS
@@ -22,11 +22,7 @@ Name[pl]=To-do List
 Name[zh_CN]=待办列表
 Name[ru]=Список дел
 
-[X-Sailjail]
+[X-Application]
 Permissions=
-OrganizationName=harbour-todolist
-ApplicationName=harbour-todolist
-
-[X-HarbourBackup]
-BackupPathList=.local/share/harbour-todolist/
-# BackupConfigList=/apps/harbour-todolist/
+OrganizationName=moe.smoothie
+ApplicationName=todolist

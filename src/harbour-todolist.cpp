@@ -5,7 +5,7 @@
  */
 
 #include <QtQuick>
-#include <sailfishapp.h>
+#include <auroraapp.h>
 #include "requires_defines.h"
 #include "constants.h"
 
@@ -20,16 +20,16 @@ int main(int argc, char *argv[])
     qmlRegisterUncreatableType<EntryState>("Todolist.Constants", 1, 0, "EntryState", "This is only a container for an enumeration.");
     qmlRegisterUncreatableType<EntrySubState>("Todolist.Constants", 1, 0, "EntrySubState", "This is only a container for an enumeration.");
 
-    QScopedPointer<QGuiApplication> app(SailfishApp::application(argc, argv));
-    app->setOrganizationName("harbour-todolist"); // needed for Sailjail
-    app->setApplicationName("harbour-todolist");
+    QScopedPointer<QGuiApplication> app(Aurora::Application::application(argc, argv));
+    app->setOrganizationName("moe.smoothie"); // needed for Sailjail
+    app->setApplicationName("todolist");
 
-    QScopedPointer<QQuickView> view(SailfishApp::createView());
+    QScopedPointer<QQuickView> view(Aurora::Application::createView());
     view->rootContext()->setContextProperty("APP_VERSION", QString(APP_VERSION));
     view->rootContext()->setContextProperty("APP_RELEASE", QString(APP_RELEASE));
 
-    view->engine()->addImportPath(SailfishApp::pathTo("qml/modules").toString());
-    view->setSource(SailfishApp::pathToMainQml());
+    view->engine()->addImportPath(Aurora::Application::pathTo("qml/modules").toString());
+    view->setSource(Aurora::Application::pathTo("qml/harbour-todolist.qml"));
     view->show();
     return app->exec();
 }

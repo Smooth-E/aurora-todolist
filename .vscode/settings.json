@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ts": "xml",
+        "*.desktop": "ini",
+        "*.spec": "shellscript",
+        "*.changes": "shellscript",
+        "*.pro": "shellscript"
+    },
+    "cSpell.words": [
+        "Mirian",
+        "Sailjail",
+        "todolist"
+    ]
+}

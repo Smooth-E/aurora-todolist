@@ -17,3 +17,18 @@ databases/
 
 libs/opal-translations
 libs/opal-docs
+
+# Generated files
+moc_*
+Makefile
+*.o
+documentation.list
+requires_defines.h
+RPMS/
+*.qm
+
+# WSL filesystem stuff
+*:Zone.Identifier
+
+# App binary
+moe.smoothie.todolist

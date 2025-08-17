@@ -23,7 +23,7 @@ A.AboutPageBase {
     id: page
 
     appName: main.appName
-    appIcon: Qt.resolvedUrl("../images/%1.png".arg(Qt.application.name))
+    appIcon: Qt.resolvedUrl("../images/harbour-todolist.png")
     appVersion: APP_VERSION
     appRelease: APP_RELEASE
 
