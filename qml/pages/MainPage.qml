@@ -38,9 +38,4 @@ Page {
             Component { ProjectsView {} }
         }
     }
-
-    Button {
-        text: "Open support dialog"
-        onClicked: pageStack.push(Qt.resolvedUrl("../MySupportDialog.qml"))
-    }
 }
