@@ -19,6 +19,11 @@
         <translation>Если вы нашли данное приложение полезным, поддержите автора оригинала или разработчика порта под ОС Аврора монетой.</translation>
     </message>
     <message>
+        <location filename="../qml/pages/AboutPage.qml" line="40"/>
+        <source>App dev&apos;s Liberapay</source>
+        <translation>Liberapay разработчика</translation>
+    </message>
+    <message>
         <location filename="../qml/pages/AboutPage.qml" line="44"/>
         <source>Port maintainer&apos;s Boosty</source>
         <translation>Boosty автора порта</translation>

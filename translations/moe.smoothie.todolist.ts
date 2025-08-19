@@ -19,6 +19,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../qml/pages/AboutPage.qml" line="40"/>
+        <source>App dev&apos;s Liberapay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../qml/pages/AboutPage.qml" line="44"/>
         <source>Port maintainer&apos;s Boosty</source>
         <translation type="unfinished"></translation>

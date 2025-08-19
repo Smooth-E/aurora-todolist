@@ -37,7 +37,7 @@ A.AboutPageBase {
 
     donations.services: [
         A.DonationService {
-            name: "App dev's Liberapay"
+            name: qsTr("App dev's Liberapay")
             url: "https://liberapay.com/ichthyosaurus"
         },
         A.DonationService {
