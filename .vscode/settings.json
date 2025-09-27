@@ -7,12 +7,17 @@
         "*.pro": "shellscript"
     },
     "cSpell.words": [
+        "armv",
         "Bachmann",
         "Boosty",
+        "cpython",
         "Haaland",
+        "INCLUDEPATH",
         "Jolla",
         "Mirian",
         "Øystein",
+        "pycache",
+        "pyotherside",
         "Sailjail",
         "todolist"
     ]

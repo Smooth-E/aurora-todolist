@@ -12,6 +12,7 @@ dist-old*
 tmp*
 icon-src/raw
 TODO
+*.log
 
 databases/
 
@@ -26,6 +27,7 @@ documentation.list
 requires_defines.h
 RPMS/
 *.qm
+vendor/
 
 # WSL filesystem stuff
 *:Zone.Identifier

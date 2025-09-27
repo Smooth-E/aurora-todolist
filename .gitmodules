@@ -5,3 +5,9 @@
 [submodule "libs/SortFilterProxyModel"]
 	path = libs/SortFilterProxyModel
 	url = https://github.com/oKcerG/SortFilterProxyModel
+[submodule "libs/cpython"]
+	path = libs/cpython
+	url = https://github.com/python/cpython/
+[submodule "libs/pyotherside"]
+	path = libs/pyotherside
+	url = https://github.com/thp/pyotherside
