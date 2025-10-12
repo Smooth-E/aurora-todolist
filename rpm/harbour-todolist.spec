@@ -11,8 +11,8 @@ Name:       moe.smoothie.todolist
 
 %define _buildhost Aurora Build Engine
 
-Summary:        A simple todo list manager
-Version:        2.0.0
+Summary:        Приложение, с которым вы всегда будете знать, чем заняться.
+Version:        2.0.0.1
 Release:        1
 Group:          Applications/Productivity
 License:        GPL-3.0-or-later
@@ -26,8 +26,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-A simple to-do list manager with support for multiple projects.
-
+Менеджер задач с поддержкой нескольких списков дел, повторяющихся задач и многого другого.
 
 %prep
 %setup -q -n %{name}-%{version}
