@@ -9,6 +9,11 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Mon Oct 13 2025 Smooth-E <smoothie@disroot.org> 2.0.0.1-1
+- Первая версия для ОС Аврора
+- Улучшен перевод на русский язык
+- CPython и pyotherside теперь поставляются вместе с приложением
+
 * Wed Oct 30 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 2.0.0-1
 - This update changes the database, and has major improvements under the hood. It is recommended to backup the database before updating! Simply create a copy of `~/.local/share/harbour-todolist` to be safe.
 - Updated translations: Estonian, Indonesian, Spanish, and more

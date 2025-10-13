@@ -79,7 +79,7 @@ python_lib.path = $$libdir
 python_lib.files = $$vendor/lib/python3.13 \
                    $$vendor/lib/lib*
 
-pyotherside.path = $$libdir/
+pyotherside.path = $$libdir
 pyotherside.files = $$vendor/usr/$$lib_subdir/qt5
 
 INSTALLS += python_bin python_lib pyotherside
