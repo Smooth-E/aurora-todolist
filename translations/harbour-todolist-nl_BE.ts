@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>A simple tool for planning what to do next.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een simpel hulpmiddel om dingen in te plannen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="63"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="103"/>
         <source>Norwegian Nynorsk</source>
-        <translation type="unfinished"></translation>
+        <translation>Noors, Nynorsk</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="109"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="156"/>
         <source>View old entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk oude entries</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
@@ -84,67 +84,67 @@
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="112"/>
         <source>Enter title</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg titel in</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="113"/>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="151"/>
         <source>Enter optional description</source>
-        <translation type="unfinished"></translation>
+        <translation>Dien optionele beschrijving in</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="152"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschrijving</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="56"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="84"/>
         <source>Scheduled for</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingepland op</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="95"/>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>vandaag</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="96"/>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>morgen</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="97"/>
         <source>this week</source>
-        <translation type="unfinished"></translation>
+        <translation>deze week</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="98"/>
         <source>someday</source>
-        <translation type="unfinished"></translation>
+        <translation>ooit</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="62"/>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Project</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="141"/>
         <source>Enable predictive text input</source>
-        <translation type="unfinished"></translation>
+        <translation>Schakel voorspellende tekstinput in</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddItemDialog.qml" line="37"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg toe</translation>
     </message>
 </context>
 <context>
@@ -152,12 +152,12 @@
     <message>
         <location filename="../qml/pages/AddRegularDialog.qml" line="13"/>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <location filename="../qml/pages/AddRegularDialog.qml" line="26"/>
         <source>Swipe left to add recurring entries. You can specify an interval in which they will be added automatically to the current to-do list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Swipe naar links om wederkerende entries toe te voegen. U kunt een interval bepalen om deze entries automatisch toe te voegen aan de huidige to-do-list.</translation>
     </message>
 </context>
 <context>
@@ -165,17 +165,17 @@
     <message>
         <location filename="../qml/pages/ArchivePage.qml" line="66"/>
         <source>Archived Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Gearchiveerde entries</translation>
     </message>
     <message>
         <location filename="../qml/pages/ArchivePage.qml" line="88"/>
         <source>No entries yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen entries</translation>
     </message>
     <message>
         <location filename="../qml/pages/ArchivePage.qml" line="89"/>
         <source>This page will show a list of all old entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze pagina zal oude entries weergeven.</translation>
     </message>
 </context>
 <context>
@@ -191,27 +191,27 @@
     <message>
         <location filename="../qml/pages/ConfirmDeleteDialog.qml" line="47"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConfirmDeleteDialog.qml" line="67"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschrijving</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConfirmDeleteDialog.qml" line="52"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConfirmDeleteDialog.qml" line="83"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarschuwing</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConfirmDeleteDialog.qml" line="48"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -232,12 +232,12 @@
     <message>
         <location filename="../qml/pages/EditItemDialog.qml" line="62"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijder</translation>
     </message>
     <message>
         <location filename="../qml/pages/EditItemDialog.qml" line="42"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>bewaar</translation>
     </message>
 </context>
 <context>
@@ -245,21 +245,21 @@
     <message>
         <location filename="../qml/components/IntervalCombo.qml" line="27"/>
         <source>Recurring</source>
-        <translation type="unfinished"></translation>
+        <translation>Wederkerend</translation>
     </message>
     <message>
         <location filename="../qml/components/IntervalCombo.qml" line="34"/>
         <source>once</source>
         <comment>interval for recurring entries</comment>
-        <translation type="unfinished"></translation>
+        <translation>éénmalig</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/components/IntervalCombo.qml" line="35"/>
         <source>every %n day(s)</source>
         <comment>interval for recurring entries</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>om de %n dag</numerusform>
+            <numerusform>om de %n dagen</numerusform>
         </translation>
     </message>
 </context>
@@ -268,7 +268,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="119"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentie tekst</translation>
     </message>
 </context>
 <context>
@@ -281,12 +281,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="30"/>
         <source>To-do List</source>
-        <translation type="unfinished"></translation>
+        <translation>To-do lijstke</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="36"/>
         <source>Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Projecten</translation>
     </message>
 </context>
 <context>
@@ -294,32 +294,32 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Donneer via Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Betaal het equivalent van één kaffeetje, slice pizza of cinématicket.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertaal via Website</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Help ons met het vertalen van deze app.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontwikkel op Github</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ondersteun ons door te helpen onderhouden en packagen, coderen of waardevolle bug reports te sturen.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
@@ -329,27 +329,27 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit project werd met liefde en passie ontwikkeld door één dev tijdens diens vrije tijd, en is volledig gratis.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ik ontwikkel gratis software, omdat ik ervan overtuigd ben dat dat het ethische ding is om te doen - en als hobby. Software ontwikkelen kost echter veel en duurt lang. Daarom heb ik uw ondersteuning nodig zodat ik verder kan werpen aan gelijkaardige projecten.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarom doneren?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla heeft weeral de prijzen verhoogd en forceert (freelance) devs om te betalen voor Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indien u kunt, zou ik het erg appreciëren mocht u een donatietje laten. Elk bedrag helpt en zo kan ik verder ontwikkelen voor Sailfish.</translation>
     </message>
 </context>
 <context>
@@ -357,7 +357,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="57"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeveer</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="86"/>
@@ -374,13 +374,13 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="105"/>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Supporters</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="110"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="16"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Changelog</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="131"/>
@@ -390,9 +390,9 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="136"/>
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>geef licentie weer</numerusform>
+            <numerusform>geef licenties weer</numerusform>
         </translation>
     </message>
     <message>
@@ -406,7 +406,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="16"/>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>toon details</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="23"/>
@@ -424,7 +424,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="125"/>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Donaties</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="113"/>
@@ -439,12 +439,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dankuwel!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="44"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: Aub. check de Source-Code voor meest accurate informatie.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="107"/>
@@ -452,33 +452,33 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="47"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Homepagina</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>Details</source>
-        <translation>Informatie</translation>
+        <translation>Details</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="28"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Download licenties .txt</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuws</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="62"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanpassingen sinds versie %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Aub. zie &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -486,17 +486,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="7"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indien u mij wilt supporteren: Buy me a coffee.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>U kunt mij ondersteunen door mee te contributen of te doneren via één van volgende services.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="9"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulp met het coden of vertalen is altijd zeer welkom.</translation>
     </message>
 </context>
 <context>
@@ -504,22 +504,22 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="24"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Externe link</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëer naar Clipboard</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="55"/>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Deel</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Open in browser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
@@ -529,17 +529,17 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="17"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gekopiëerd</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Deel link</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="50"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëer</translation>
     </message>
 </context>
 <context>
@@ -547,52 +547,52 @@
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="67"/>
         <source>Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Projecten</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="52"/>
         <source>Add project</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg project toe</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="45"/>
         <source>Arrange entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Organiseer entries</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="95"/>
         <source>All entries belonging to this project will be deleted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle entries voor dit project worden verwijderd!</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="115"/>
         <source>mark as active</source>
-        <translation type="unfinished"></translation>
+        <translation>markeer als actief</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="120"/>
         <source>mark as halted</source>
-        <translation type="unfinished"></translation>
+        <translation>markeer als gepauzeerd</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="125"/>
         <source>mark as finished</source>
-        <translation type="unfinished"></translation>
+        <translation>markeer als beëindigd</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="141"/>
         <source>No entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen entries</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="142"/>
         <source>This should not be possible. Most probably a database error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit zou niet mogelijk moeten zijn. Hoogst waarschijnlijk een database error.</translation>
     </message>
     <message>
         <location filename="../qml/pages/ProjectsView.qml" line="56"/>
         <source>Add a project</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een project toe</translation>
     </message>
 </context>
 <context>
@@ -600,47 +600,47 @@
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="43"/>
         <source>Arrange entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrangeer entries</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="50"/>
         <source>Add recurring entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg terugkerend entry</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="74"/>
         <source>Configure recurring entries here. Active entries in this list are added automatically to the to-do list in regular intervals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas hier terugkerende entries. Actieve entries in deze list worden automatisch toegevoegd aan To-do-lijst in intervallen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="109"/>
         <source>This will &lt;i&gt;not&lt;/i&gt; delete entries retroactively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit zal entries later &lt;i&gt;niet&lt;i&gt; verwijderen.&lt;/i&gt;&lt;/i&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="115"/>
         <source>mark as active</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeer als actief</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="120"/>
         <source>mark as halted</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeer als gepauzeerd</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="125"/>
         <source>mark as done</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeer als klaar</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="139"/>
         <source>No entries yet</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nog) geen entries</translation>
     </message>
     <message>
         <location filename="../qml/pages/RecurringsView.qml" line="140"/>
         <source>This page will show a list of all recurring entries.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze pagina zal een lijstje terugkerende entries veergeven.</translation>
     </message>
 </context>
 <context>
@@ -648,7 +648,7 @@
     <message>
         <location filename="../qml/components/StartDateButton.qml" line="28"/>
         <source>Starting at</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginnend bij</translation>
     </message>
 </context>
 <context>
@@ -656,7 +656,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="9"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yow!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="10"/>
