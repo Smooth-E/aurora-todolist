@@ -12,7 +12,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 | Ссылки для скачивания |
 | --- |
-| 📦 [RuStore для ОС Аврора](https://www.rustore.ru/osaurora) <br> 🛒 [Аврора Маркет](https://aurorarepos.ru/appitem/spisok-del) <br> 😼 [Скачать RPM](https://github.com/Smooth-E/aurora-todolist/releases/latest/) |
+| 📦 [RuStore для ОС Аврора](https://www.rustore.ru/osaurora) <br> 🛒 [Аврора Маркет](https://aurorarepos.ru/aurora-5/spisok-del) <br> 😼 [Скачать RPM](https://github.com/Smooth-E/aurora-todolist/releases/latest/) |
 
 **Функционал:**
 
