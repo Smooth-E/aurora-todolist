@@ -1,6 +1,6 @@
 <!--
-SPDX-FileCopyrightText: 2025 Smooth-E
-SPDX-FileCopyrightText: 2018-2024 Mirian Margiani
+SPDX-FileCopyrightText: 2026 Smooth-E
+SPDX-FileCopyrightText: 2018-2025 Mirian Margiani
 SPDX-License-Identifier: GFDL-1.3-or-later
 -->
 
@@ -68,9 +68,9 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 Конечно же, мы будем очень рады, если вы поможете проекту, предложив свои правки или улучшения. Прочтите секцию выше, чтобы узнать больше ✨
 
-## License
+# License
 
-- Copyright (C) 2025 Smooth-E
+- Copyright (C) 2026 Smooth-E
 - Copyright (C) 2020-2025  Mirian Margiani
 
 Список дел - свободное программное обеспечение, которое распространяется под лицензией 
