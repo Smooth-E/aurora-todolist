@@ -68,10 +68,10 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 Конечно же, мы будем очень рады, если вы поможете проекту, предложив свои правки или улучшения. Прочтите секцию выше, чтобы узнать больше ✨
 
-# License
+## Лицензирование
 
 - Copyright (C) 2026 Smooth-E
-- Copyright (C) 2020-2025  Mirian Margiani
+- Copyright (C) 2020-2025 Mirian Margiani
 
 Список дел - свободное программное обеспечение, которое распространяется под лицензией 
 [GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
