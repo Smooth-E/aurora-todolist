@@ -9,6 +9,23 @@ import "modules/Opal/About"
 
 ChangelogList {
     ChangelogItem {
+        version: "2.0.0.2-1"
+        date: "2026-03-23"
+        paragraphs: [
+            "- Используется cpython 3.14.3<br>" +
+            "- Уменьшены размер приложения и время установки"
+        ]
+    }
+    ChangelogItem {
+        version: "2.0.0.1-1"
+        date: "2025-10-13"
+        paragraphs: [
+            "- Первая версия для ОС Аврора<br>" +
+            "- Улучшен перевод на русский язык<br>" +
+            "- CPython и pyotherside теперь поставляются вместе с приложением"
+        ]
+    }
+    ChangelogItem {
         version: "2.0.0-1"
         date: "2024-10-30"
         paragraphs: [

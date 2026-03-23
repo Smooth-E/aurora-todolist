@@ -1,5 +1,6 @@
 # This file is part of harbour-todolist.
 # SPDX-FileCopyrightText: Mirian Margiani
+# SPDX-FileCopyrightText: 2025-2026 Smooth-E
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 # FORMAT:
@@ -8,6 +9,10 @@
 
 # * date Author's Name <author's email> version-release
 # - Summary of changes
+
+* Mon Mar 23 2026 Smooth-E <smoothie@disroot.org> 2.0.0.2-1
+- Используется cpython 3.14.3
+- Уменьшены размер приложения и время установки
 
 * Mon Oct 13 2025 Smooth-E <smoothie@disroot.org> 2.0.0.1-1
 - Первая версия для ОС Аврора

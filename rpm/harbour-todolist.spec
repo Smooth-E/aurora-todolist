@@ -1,5 +1,5 @@
 # This file is part of Todolist
-# SPDX-FileCopyrightText: 2025 Smooth-E
+# SPDX-FileCopyrightText: 2025-2026 Smooth-E
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 Name:       moe.smoothie.todolist
@@ -12,7 +12,7 @@ Name:       moe.smoothie.todolist
 %define _buildhost Aurora Build Engine
 
 Summary:        Приложение, с которым вы всегда будете знать, чем заняться.
-Version:        2.0.0.1
+Version:        2.0.0.2
 Release:        1
 Group:          Applications/Productivity
 License:        GPL-3.0-or-later
