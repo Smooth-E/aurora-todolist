@@ -1,5 +1,6 @@
 # This file is part of harbour-todolist.
 # SPDX-FileCopyrightText: 2020-2024 Mirian Margiani
+# SPDX-FileCopyrightText: 2025-2026 Smooth-E
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 # Application name defined in TARGET has a corresponding QML filename.
@@ -55,6 +56,7 @@ include(libs/SortFilterProxyModel/SortFilterProxyModel.pri)
 
 # Vendor libraries
 
+cpython_version = 3.14
 libdir = /usr/share/$$TARGET/lib
 libexecdir = /usr/libexec/$$TARGET
 
@@ -73,10 +75,10 @@ message(Selected vendor dir $$vendor)
 
 python_bin.path = $$libexecdir
 python_bin.files = $$vendor/bin/python3 \
-                   $$vendor/bin/python3.13
+                   $$vendor/bin/python$$cpython_version
 
 python_lib.path = $$libdir
-python_lib.files = $$vendor/lib/python3.13 \
+python_lib.files = $$vendor/lib/python$$cpython_version \
                    $$vendor/lib/lib*
 
 pyotherside.path = $$libdir
