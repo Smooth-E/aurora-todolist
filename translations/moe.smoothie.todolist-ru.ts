@@ -177,7 +177,11 @@
     <message>
         <location filename="../qml/pages/AddRegularDialog.qml" line="26"/>
         <source>Swipe left to add recurring entries. You can specify an interval in which they will be added automatically to the current to-do list.</source>
+<<<<<<< HEAD:translations/moe.smoothie.todolist-ru.ts
         <translation>Проведите пальцем влево, чтобы добавить повторяющиеся записи. Можно указать интервал, через который они будут автоматически добавляться в текущий список дел.</translation>
+=======
+        <translation>Проведите пальцем влево, чтобы добавить повторяющиеся записи. Вы можете указать интервал, с которым они будут автоматически добавляться в текущий список дел.</translation>
+>>>>>>> main:translations/harbour-todolist-ru.ts
     </message>
 </context>
 <context>
@@ -314,8 +318,8 @@
     <name>MySupportDialog</name>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
-        <source>Donate on Liberapay</source>
-        <translation>Пожертвовать на Liberapay</translation>
+        <source>Donate on %1</source>
+        <translation>Пожертвовать на %1</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>

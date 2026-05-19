@@ -34,3 +34,5 @@ vendor/
 
 # App binary
 moe.smoothie.todolist
+
+dist/packages

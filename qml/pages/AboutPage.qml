@@ -1,6 +1,7 @@
 /*
  * This file is part of harbour-todolist.
- * SPDX-FileCopyrightText: 2020-2024 Mirian Margiani
+ * SPDX-FileCopyrightText: 2020-2026 Mirian Margiani
+ * SPDX-FileCopyrightText: 2025-2026 Smooth-E
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -47,7 +48,7 @@ A.AboutPageBase {
     ]
 
     description: qsTr("A simple tool for planning what to do next.")
-    mainAttributions: [ "2025 Smooth-E", "2020-%1 Mirian Margiani".arg((new Date()).getFullYear()) ]
+    mainAttributions: [ "2025-2026 Smooth-E", "2020-%1 Mirian Margiani".arg((new Date()).getFullYear()) ]
     autoAddOpalAttributions: true
 
     attributions: [

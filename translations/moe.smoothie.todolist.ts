@@ -312,7 +312,7 @@
     <name>MySupportDialog</name>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
-        <source>Donate on Liberapay</source>
+        <source>Donate on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

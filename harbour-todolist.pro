@@ -13,14 +13,14 @@
 #   - translation filenames have to be changed
 TARGET = moe.smoothie.todolist
 
-CONFIG += auroraapp
+CONFIG += auroraapp c++11
 
 # Note: version number is configured in yaml
 DEFINES += APP_VERSION=\\\"$$VERSION\\\"
 DEFINES += APP_RELEASE=\\\"$$RELEASE\\\"
 include(libs/opal-cached-defines.pri)
 
-QML_IMPORT_PATH += qml/modules
+include(libs/opal.pri)
 
 SOURCES += \
     src/harbour-todolist.cpp \

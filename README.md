@@ -33,6 +33,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 - Больше настроек для повторяющихся задач (например, повторение в определенный день месяца)
 - Ручная сортировка задач
 
+A simple to-do list manager with support for multiple projects
 
 ## Поддержать проект
 
@@ -70,8 +71,8 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 ## Лицензирование
 
-- Copyright (C) 2026 Smooth-E
-- Copyright (C) 2020-2025 Mirian Margiani
+- Copyright (C) 2025-2026 Smooth-E
+- Copyright (C) 2020-2026 Mirian Margiani
 
 Список дел - свободное программное обеспечение, которое распространяется под лицензией 
 [GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
