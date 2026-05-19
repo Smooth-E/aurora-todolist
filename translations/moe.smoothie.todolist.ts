@@ -4,97 +4,97 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="64"/>
+        <location filename="../qml/pages/AboutPage.qml" line="65"/>
         <source>Development</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="49"/>
+        <location filename="../qml/pages/AboutPage.qml" line="50"/>
         <source>A simple tool for planning what to do next.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="35"/>
+        <location filename="../qml/pages/AboutPage.qml" line="36"/>
         <source>If you found this app helpful, feel welcome to support the original developer or the Aurora OS port maintainer by donating.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="40"/>
+        <location filename="../qml/pages/AboutPage.qml" line="41"/>
         <source>App dev&apos;s Liberapay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="44"/>
+        <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Port maintainer&apos;s Boosty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="67"/>
+        <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>Programming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="71"/>
+        <location filename="../qml/pages/AboutPage.qml" line="72"/>
         <source>Aurora OS Port</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="78"/>
+        <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Translations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="87"/>
+        <location filename="../qml/pages/AboutPage.qml" line="88"/>
         <source>Spanish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="94"/>
+        <location filename="../qml/pages/AboutPage.qml" line="95"/>
         <source>Russian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="100"/>
+        <location filename="../qml/pages/AboutPage.qml" line="101"/>
         <source>Polish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="107"/>
+        <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Norwegian Nynorsk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="113"/>
+        <location filename="../qml/pages/AboutPage.qml" line="114"/>
         <source>Indonesian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="125"/>
+        <location filename="../qml/pages/AboutPage.qml" line="126"/>
         <source>Estonian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="160"/>
+        <location filename="../qml/pages/AboutPage.qml" line="161"/>
         <source>View old entries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="81"/>
+        <location filename="../qml/pages/AboutPage.qml" line="82"/>
         <source>Swedish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="137"/>
+        <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="119"/>
+        <location filename="../qml/pages/AboutPage.qml" line="120"/>
         <source>German</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="131"/>
+        <location filename="../qml/pages/AboutPage.qml" line="132"/>
         <source>English</source>
         <translation type="unfinished"></translation>
     </message>
@@ -311,62 +311,57 @@
 <context>
     <name>MySupportDialog</name>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="14"/>
+        <location filename="../qml/MySupportDialog.qml" line="13"/>
         <source>Donate on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="15"/>
+        <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="22"/>
+        <location filename="../qml/MySupportDialog.qml" line="21"/>
         <source>Support port maintainer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="23"/>
+        <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Support Aurora OS port maintainer by donating through Boosty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="37"/>
-        <source>Develop on Github</source>
+        <location filename="../qml/MySupportDialog.qml" line="28"/>
+        <source>Develop on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="38"/>
+        <location filename="../qml/MySupportDialog.qml" line="29"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="44"/>
+        <location filename="../qml/MySupportDialog.qml" line="35"/>
         <source>Why should you care?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="47"/>
+        <location filename="../qml/MySupportDialog.qml" line="38"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="53"/>
+        <location filename="../qml/MySupportDialog.qml" line="44"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="63"/>
+        <location filename="../qml/MySupportDialog.qml" line="54"/>
         <source>Why donate?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="66"/>
-        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/MySupportDialog.qml" line="71"/>
+        <location filename="../qml/MySupportDialog.qml" line="57"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation type="unfinished"></translation>
     </message>

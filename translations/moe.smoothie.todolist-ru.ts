@@ -4,97 +4,97 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="64"/>
+        <location filename="../qml/pages/AboutPage.qml" line="65"/>
         <source>Development</source>
         <translation>Разработка</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="49"/>
+        <location filename="../qml/pages/AboutPage.qml" line="50"/>
         <source>A simple tool for planning what to do next.</source>
         <translation>Простой инструмент для планирования дальнейших дел и задач.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="35"/>
+        <location filename="../qml/pages/AboutPage.qml" line="36"/>
         <source>If you found this app helpful, feel welcome to support the original developer or the Aurora OS port maintainer by donating.</source>
         <translation>Если вы нашли данное приложение полезным, поддержите автора оригинала или разработчика порта под ОС Аврора монетой.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="40"/>
+        <location filename="../qml/pages/AboutPage.qml" line="41"/>
         <source>App dev&apos;s Liberapay</source>
         <translation>Liberapay разработчика</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="44"/>
+        <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Port maintainer&apos;s Boosty</source>
         <translation>Boosty автора порта</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="67"/>
+        <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>Programming</source>
         <translation>Программирование</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="71"/>
+        <location filename="../qml/pages/AboutPage.qml" line="72"/>
         <source>Aurora OS Port</source>
         <translation>Порт для ОС Аврора</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="78"/>
+        <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Translations</source>
         <translation>Перевод</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="87"/>
+        <location filename="../qml/pages/AboutPage.qml" line="88"/>
         <source>Spanish</source>
         <translation>Испанский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="100"/>
+        <location filename="../qml/pages/AboutPage.qml" line="101"/>
         <source>Polish</source>
         <translation>Польский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="107"/>
+        <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Norwegian Nynorsk</source>
         <translation>Норвежский нюнорск</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="113"/>
+        <location filename="../qml/pages/AboutPage.qml" line="114"/>
         <source>Indonesian</source>
         <translation>Индонезийский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="125"/>
+        <location filename="../qml/pages/AboutPage.qml" line="126"/>
         <source>Estonian</source>
         <translation>Эстонский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="160"/>
+        <location filename="../qml/pages/AboutPage.qml" line="161"/>
         <source>View old entries</source>
         <translation>Просмотреть старые записи</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="81"/>
+        <location filename="../qml/pages/AboutPage.qml" line="82"/>
         <source>Swedish</source>
         <translation>Шведский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="137"/>
+        <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Chinese</source>
         <translation>Китайский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="119"/>
+        <location filename="../qml/pages/AboutPage.qml" line="120"/>
         <source>German</source>
         <translation>Немецкий</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="131"/>
+        <location filename="../qml/pages/AboutPage.qml" line="132"/>
         <source>English</source>
         <translation>Английский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="94"/>
+        <location filename="../qml/pages/AboutPage.qml" line="95"/>
         <source>Russian</source>
         <translation>Русский</translation>
     </message>
@@ -177,11 +177,7 @@
     <message>
         <location filename="../qml/pages/AddRegularDialog.qml" line="26"/>
         <source>Swipe left to add recurring entries. You can specify an interval in which they will be added automatically to the current to-do list.</source>
-<<<<<<< HEAD:translations/moe.smoothie.todolist-ru.ts
         <translation>Проведите пальцем влево, чтобы добавить повторяющиеся записи. Можно указать интервал, через который они будут автоматически добавляться в текущий список дел.</translation>
-=======
-        <translation>Проведите пальцем влево, чтобы добавить повторяющиеся записи. Вы можете указать интервал, с которым они будут автоматически добавляться в текущий список дел.</translation>
->>>>>>> main:translations/harbour-todolist-ru.ts
     </message>
 </context>
 <context>
@@ -318,61 +314,56 @@
     <name>MySupportDialog</name>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
-        <source>Donate on %1</source>
-        <translation>Пожертвовать на %1</translation>
-    </message>
-    <message>
-        <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation>Оплатите стоимость чашки кофе, кусочка пиццы или билета в театр.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="22"/>
+        <location filename="../qml/MySupportDialog.qml" line="21"/>
         <source>Support port maintainer</source>
         <translation>Поддержать разработчика порта</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="23"/>
+        <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Support Aurora OS port maintainer by donating through Boosty.</source>
         <translation>Поддержите разработчика порта для ОС Аврора пожертвованием на Boosty.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="37"/>
-        <source>Develop on Github</source>
-        <translation>Разрабатывать на Github</translation>
+        <location filename="../qml/MySupportDialog.qml" line="13"/>
+        <source>Donate on %1</source>
+        <translation>Пожертвовать на %1</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="38"/>
+        <location filename="../qml/MySupportDialog.qml" line="28"/>
+        <source>Develop on %1</source>
+        <translation>Разрабатывайте на %1</translation>
+    </message>
+    <message>
+        <location filename="../qml/MySupportDialog.qml" line="29"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation>Поддержка в разработке и упаковке, написании кодов, или важные замечания об ошибках.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="44"/>
+        <location filename="../qml/MySupportDialog.qml" line="35"/>
         <source>Why should you care?</source>
         <translation>Почему вас это должно волновать?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="47"/>
+        <location filename="../qml/MySupportDialog.qml" line="38"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation>Этот проект создан одним разработчиком с любовью и увлечением в его свободное время и предоставляется вам бесплатно.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="53"/>
+        <location filename="../qml/MySupportDialog.qml" line="44"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation>Я разрабатываю бесплатное программное обеспечение, потому что убежден, что это этично, и это веселое хобби. Однако разработка программного обеспечения требует много времени и усилий. Поскольку Sailfish и жизнь в целом стоят денег, мне нужна ваша поддержка, чтобы иметь возможность тратить время на такие неоплачиваемые проекты, как этот.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="63"/>
+        <location filename="../qml/MySupportDialog.qml" line="54"/>
         <source>Why donate?</source>
         <translation>Для чего нужно пожертвование?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="66"/>
-        <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla повысил цены и пытается заставить разработчиков (которые работают на себя) платить за аренду Sailfish.</translation>
-    </message>
-    <message>
-        <location filename="../qml/MySupportDialog.qml" line="71"/>
+        <location filename="../qml/MySupportDialog.qml" line="57"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>Если вы можете себе это позволить, пожертвование — это самый простой способ гарантировать, что я смогу продолжать работать над приложениями для Sailfish. Любая сумма будет оценена по достоинству, будь то чашка кофе, кусок пиццы или что-то еще.</translation>
     </message>
