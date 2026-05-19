@@ -59,7 +59,7 @@ include(libs/SortFilterProxyModel/SortFilterProxyModel.pri)
 
 # Vendor libraries
 
-cpython_version = 3.14
+cpython_version = 3.8
 libdir = /usr/share/$$TARGET/lib
 libexecdir = /usr/libexec/$$TARGET
 

@@ -28,6 +28,7 @@ requires_defines.h
 RPMS/
 *.qm
 vendor/
+vendor.bak/
 
 # WSL filesystem stuff
 *:Zone.Identifier
