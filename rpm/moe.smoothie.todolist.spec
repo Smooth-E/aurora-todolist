@@ -12,7 +12,7 @@ Name:       moe.smoothie.todolist
 %define _buildhost Aurora Build Engine
 
 Summary:        Приложение, с которым вы всегда будете знать, чем заняться.
-Version:        2.0.0.2
+Version:        2.0.0.3
 Release:        1
 Group:          Applications/Productivity
 License:        GPL-3.0-or-later

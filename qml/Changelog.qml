@@ -9,6 +9,16 @@ import "modules/Opal/About"
 
 ChangelogList {
     ChangelogItem {
+        version: "2.0.0.3-1"
+        date: "2026-05-20"
+        paragraphs: [
+            "- Используется cpython 3.8.20 для большей совместимости<br>" +
+            "- Уменьшены размер приложения и время установки<br>" +
+            "- Обновлены модули Opal<br>" +
+            "- Внутренние оптимизации и улучшения"
+        ]
+    }
+    ChangelogItem {
         version: "2.0.0.2-1"
         date: "2026-03-23"
         paragraphs: [

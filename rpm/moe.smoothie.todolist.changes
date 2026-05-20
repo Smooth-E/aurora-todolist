@@ -10,6 +10,12 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Wed May 20 2026 Smooth-E <smoothie@disroot.org> 2.0.0.3-1
+- Используется cpython 3.8.20 для большей совместимости
+- Уменьшены размер приложения и время установки 
+- Обновлены модули Opal
+- Внутренние оптимизации и улучшения
+
 * Mon Mar 23 2026 Smooth-E <smoothie@disroot.org> 2.0.0.2-1
 - Используется cpython 3.14.3
 - Уменьшены размер приложения и время установки

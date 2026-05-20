@@ -38,11 +38,10 @@ DISTFILES += \
     qml/*/*/*.js \
     qml/*/*/*/*.qml \
     qml/*/*/*/*.js \
-    rpm/harbour-*.changes \
-    rpm/harbour-*.spec \
-    rpm/harbour-*.yaml \
+    rpm/moe.smoothie.todolist.changes \
+    rpm/moe.smoothie.todolist.spec \
     translations/*.ts \
-    harbour-*.desktop
+    moe.smoothie.todolist.desktop \
 
 AURORAAPP_ICONS = 86x86 108x108 128x128 172x172
 
