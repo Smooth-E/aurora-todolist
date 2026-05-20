@@ -71,6 +71,8 @@ A simple to-do list manager with support for multiple projects
 
 ## Лицензирование
 
+Этот проект - софт-форк приложения [To-Do List для Sailfish OS](https://codeberg.org/ichthyosaurus/harbour-todolist). Изменения из астрим-репозитория переодически синхронизируются. Порт основан на ревизии апстрим-репозитория из ветки [main](https://github.com/Smooth-E/aurora-todolist/tree/main).
+
 - Copyright (C) 2025-2026 Smooth-E
 - Copyright (C) 2020-2026 Mirian Margiani
 
