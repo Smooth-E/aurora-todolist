@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
     if (qputenv("PYTHONHOME", QString("/usr/share/moe.smoothie.todolist/").toUtf8().constData())) {
         qDebug() << "Successfully set python home";
     } else {
-        qDebug() << "Failed to set python home";
+        qCritical() << "Failed to set python home";
     }
 
     REGISTER_ENUMS(Todolist, "Todolist.Constants", 1, 0)
@@ -43,7 +43,7 @@ int main(int argc, char *argv[])
     // Vendored pyotherside
     view->engine()->addImportPath(Aurora::Application::pathTo("lib/qt5/qml").toString());
 
-    view->setSource(Aurora::Application::pathTo("qml/harbour-todolist.qml"));
+    view->setSource(Aurora::Application::pathToMainQml());
     view->show();
 
     return app->exec();

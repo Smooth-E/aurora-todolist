@@ -23,7 +23,7 @@ include(libs/opal-cached-defines.pri)
 include(libs/opal.pri)
 
 SOURCES += \
-    src/harbour-todolist.cpp \
+    src/main.cpp \
 
 HEADERS += \
     src/enumcontainer.h \

@@ -929,50 +929,50 @@
     </message>
 </context>
 <context>
-    <name>harbour-todolist</name>
+    <name>moe.smoothie.todolist</name>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="96"/>
-        <source>Database Error</source>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="64"/>
+        <source>To-do List</source>
+        <comment>the app&apos;s name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="65"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="65"/>
         <source>d MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</source>
         <comment>date format including date and time but no weekday</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="66"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="66"/>
         <source>hh&apos;:&apos;mm</source>
         <comment>format for times</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="67"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="67"/>
         <source>ddd d MMM yyyy</source>
         <comment>date format including weekday</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="68"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="68"/>
         <source>d MMM yyyy</source>
         <comment>date format without weekday</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="162"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="96"/>
+        <source>Database Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="162"/>
         <source>Internal error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="163"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="163"/>
         <source>An unknown worker message cannot be handled.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/harbour-todolist.qml" line="64"/>
-        <source>To-do List</source>
-        <comment>the app&apos;s name</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

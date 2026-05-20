@@ -935,49 +935,49 @@
     </message>
 </context>
 <context>
-    <name>harbour-todolist</name>
+    <name>moe.smoothie.todolist</name>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="96"/>
-        <source>Database Error</source>
-        <translation>Ошибка базы данных</translation>
-    </message>
-    <message>
-        <location filename="../qml/harbour-todolist.qml" line="64"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="64"/>
         <source>To-do List</source>
         <comment>the app&apos;s name</comment>
         <translation>Список дел</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="65"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="65"/>
         <source>d MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</source>
         <comment>date format including date and time but no weekday</comment>
         <translation>d. MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="66"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="66"/>
         <source>hh&apos;:&apos;mm</source>
         <comment>format for times</comment>
         <translation>hh&apos;:&apos;mm</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="67"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="67"/>
         <source>ddd d MMM yyyy</source>
         <comment>date format including weekday</comment>
         <translation>ddd, d. MMM yyyy</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="68"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="68"/>
         <source>d MMM yyyy</source>
         <comment>date format without weekday</comment>
         <translation>d. MMM yyyy</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="162"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="96"/>
+        <source>Database Error</source>
+        <translation>Ошибка базы данных</translation>
+    </message>
+    <message>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="162"/>
         <source>Internal error</source>
         <translation>Внутренняя ошибка</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-todolist.qml" line="163"/>
+        <location filename="../qml/moe.smoothie.todolist.qml" line="163"/>
         <source>An unknown worker message cannot be handled.</source>
         <translation>Не возможно обработать сообщение от неизвестного работника.</translation>
     </message>
