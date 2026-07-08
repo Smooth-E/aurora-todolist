@@ -19,7 +19,6 @@ PaddedDelegate {
     property alias text: _textField.text
     property TextField textField: _textField
     property alias acceptableInput: _textField.acceptableInput
-    signal textFieldFocusChanged(var focus)
 
     function apply() {
         if (canApply) {
@@ -61,7 +60,6 @@ PaddedDelegate {
             EnterKey.iconSource: root.canApply ?
                  "../images/icon-m-enter-add.png" :
                  "image://theme/icon-m-enter-close"
-            onActiveFocusChanged: textFieldFocusChanged(activeFocus)
         }
 
         ComboBox {
@@ -99,11 +97,5 @@ PaddedDelegate {
         width: Theme.iconSizeSmallPlus
         icon.source: "image://theme/icon-splus-add"
         onClicked: root.apply()
-    }
-
-    onTextFieldFocusChanged: {
-        if (!focus && canApply) {
-            apply()
-        }
     }
 }
