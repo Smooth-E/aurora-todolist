@@ -14,7 +14,6 @@ cpython_version=3.8
 select_all=1
 select_cpython=
 select_clean_cpython=
-select_minify_cpython=
 select_pyotherside=
 
 cpython_enable_optimizations="--enable-optimizations"
@@ -29,7 +28,6 @@ help()
    echo "Selective build. If at least one is specified, only selected build steps will be performed."
    echo "  --build-cpython     Build cpython."
    echo "  --clean-cpython     Remove unnecessary cpython components to optimize build time and app size."
-   echo "  --minify-cpython    Minify Python files inside cpython with pyminifier"
    echo "  --build-pyotherside Build pyotherside."
    echo "Extra options:"
    echo "  --enable-optimizations Pass --enable-optimizations to ./configure when building cpython for aarch64/x86_64."
@@ -111,25 +109,6 @@ clean_cpython()
     cd ../../../../
 }
 
-minify_cpython()
-{
-    echo Minifying cpytohn
-
-    cd vendor/$arch/
-
-    sb2 -t $target bash -c " \
-        echo ... Creating virtual environment && \
-        if [[ ! -d .venv ]]; then python3 -m venv .venv; fi && \
-        echo ... Sourcing && \
-        source .venv/bin/activate && \
-        echo ... Installing pyminifier && \
-        pip install pyminifier && \
-        echo ... Executing commands && \
-        find ./lib/python$cpython_version/ -iname *.py -exec pyminifier -o {} {} \; || exit 1"
-
-    cd ../../
-}
-
 build_pyotherside()
 {
     echo Building pyotherside...
@@ -201,11 +180,6 @@ while [[ $# -gt 0 ]]; do
             select_all=0
             shift
         ;;
-        (--minify-cpython)
-            select_minify_cpython=1
-            select_all=0
-            shift
-        ;;
         (--build-pyotherside)
             select_pyotherside=1
             select_all=0
@@ -232,6 +206,5 @@ init_target_vars
 install_dependencies
 if (( select_all || select_cpython )); then build_cpython; fi
 if (( select_all || select_clean_cpython )); then clean_cpython; fi
-if (( select_all || select_minify_cpython )); then minify_cpython; fi
 if (( select_all || select_pyotherside )); then build_pyotherside; fi
 clear_build_folders
