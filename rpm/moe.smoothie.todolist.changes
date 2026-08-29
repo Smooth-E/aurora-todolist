@@ -1,5 +1,5 @@
 # This file is part of harbour-todolist.
-# SPDX-FileCopyrightText: Mirian Margiani
+# SPDX-FileCopyrightText: 2020-2026 Mirian Margiani
 # SPDX-FileCopyrightText: 2025-2026 Smooth-E
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
@@ -13,6 +13,7 @@
 * Sat Aug 29 2026 Smooth-E <smoothie@disroot.org> 2.0.0.4-1
 - Изменены ссылки на исходный код приложения
 - Исправлено описание пакета
+- Улучшено быстрое добавление новой задачи
 
 * Wed May 20 2026 Smooth-E <smoothie@disroot.org> 2.0.0.3-1
 - Используется cpython 3.8.20 для большей совместимости
