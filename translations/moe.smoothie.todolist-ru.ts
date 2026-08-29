@@ -890,27 +890,27 @@
 <context>
     <name>TodoListItemAdder</name>
     <message>
-        <location filename="../qml/components/TodoListItemAdder.qml" line="71"/>
+        <location filename="../qml/components/TodoListItemAdder.qml" line="69"/>
         <source>Scheduled for</source>
         <translation>Запланировано на</translation>
     </message>
     <message>
-        <location filename="../qml/components/TodoListItemAdder.qml" line="78"/>
+        <location filename="../qml/components/TodoListItemAdder.qml" line="76"/>
         <source>today</source>
         <translation>сегодня</translation>
     </message>
     <message>
-        <location filename="../qml/components/TodoListItemAdder.qml" line="82"/>
+        <location filename="../qml/components/TodoListItemAdder.qml" line="80"/>
         <source>tomorrow</source>
         <translation>завтра</translation>
     </message>
     <message>
-        <location filename="../qml/components/TodoListItemAdder.qml" line="86"/>
+        <location filename="../qml/components/TodoListItemAdder.qml" line="84"/>
         <source>this week</source>
         <translation>на этой неделе</translation>
     </message>
     <message>
-        <location filename="../qml/components/TodoListItemAdder.qml" line="90"/>
+        <location filename="../qml/components/TodoListItemAdder.qml" line="88"/>
         <source>someday</source>
         <translation>когда-нибудь</translation>
     </message>
