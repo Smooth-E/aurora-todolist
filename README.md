@@ -12,7 +12,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 | Ссылки для скачивания |
 | --- |
-| 📦 [RuStore для ОС Аврора](https://www.rustore.ru/osaurora) <br> 🛒 [Аврора Маркет](https://aurorarepos.ru/aurora-5/spisok-del) <br> 😼 [Скачать RPM](https://github.com/Smooth-E/aurora-todolist/releases/latest/) |
+| 📦 [RuStore для ОС Аврора](https://www.rustore.ru/osaurora) <br> 🛒 [Аврора Маркет](https://aurorarepos.ru/aurora-5/spisok-del) <br> 😼 [Скачать RPM](https://github.com/salty-smoothie/aurora-todolist/releases/latest/) |
 
 **Функционал:**
 
@@ -33,11 +33,9 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 - Больше настроек для повторяющихся задач (например, повторение в определенный день месяца)
 - Ручная сортировка задач
 
-A simple to-do list manager with support for multiple projects
-
 ## Поддержать проект
 
-Если у вас есть какие-то вопросы, предложения или вы столкнулись с проблемой при использовании приложения на ОС Аврора, пожалуйста, оставляйте свои комментарии в [трекере GitHub Issues этого репозитория](https://github.com/Smooth-E/aurora-todolist/issues).
+Если у вас есть какие-то вопросы, предложения или вы столкнулись с проблемой при использовании приложения на ОС Аврора, пожалуйста, оставляйте свои комментарии в [трекере GitHub Issues этого репозитория](https://github.com/salty-smoothie/aurora-todolist/issues).
 
 ## Сборка и предложение изменений
 
@@ -71,13 +69,17 @@ A simple to-do list manager with support for multiple projects
 
 ## Лицензирование
 
-Этот проект - софт-форк приложения [To-Do List для Sailfish OS](https://codeberg.org/ichthyosaurus/harbour-todolist). Изменения из астрим-репозитория переодически синхронизируются. Порт основан на ревизии апстрим-репозитория из ветки [main](https://github.com/Smooth-E/aurora-todolist/tree/main).
+Этот проект - софт-форк приложения [To-Do List для Sailfish OS](https://codeberg.org/ichthyosaurus/harbour-todolist). Изменения из астрим-репозитория переодически синхронизируются. Порт основан на ревизии апстрим-репозитория из ветки [main](https://github.com/salty-smoothie/aurora-todolist/tree/main).
 
 - Copyright (C) 2025-2026 Smooth-E
 - Copyright (C) 2020-2026 Mirian Margiani
 
 Список дел - свободное программное обеспечение, которое распространяется под лицензией 
 [GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
-Исходный код доступен [на Github](https://github.com/Smooth-E/aurora-todolist).
+Исходный код доступен [на Github](https://github.com/salty-smoothie/aurora-todolist).
 Вся сопутствующая документация распространяется под лицензией 
 [GNU Free Documentation License v1.3 (or later)](https://spdx.org/licenses/GFDL-1.3-or-later.html).
+
+- Фото ["Narrow street in tokyo with vending machine"](https://unsplash.com/photos/narrow-street-in-tokyo-with-vending-machine-TeNP4a_hJzQ) было использовано при создании скриншотов и баннера
+
+Материалы в этом репозитории запрещено использовать в разработке технологий ИИ и LLM.

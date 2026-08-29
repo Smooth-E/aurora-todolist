@@ -11,12 +11,12 @@ Name:       moe.smoothie.todolist
 
 %define _buildhost Aurora Build Engine
 
-Summary:        Приложение, с которым вы всегда будете знать, чем заняться.
-Version:        2.0.0.3
+Summary:        Список дел
+Version:        2.0.0.4
 Release:        1
 Group:          Applications/Productivity
 License:        GPL-3.0-or-later
-URL:            https://github.com/Smooth-E/aurora-todolist
+URL:            https://github.com/salty-smoothie/aurora-todolist
 Source0:        %{name}-%{version}.tar.bz2
 Requires:       sailfishsilica-qt5 >= 0.10.9
 BuildRequires:  pkgconfig(auroraapp) >= 1.0.2
@@ -26,6 +26,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
+Приложение, с которым вы всегда будете знать, чем заняться.
 Менеджер задач с поддержкой нескольких списков дел, повторяющихся задач и многого другого.
 
 %prep

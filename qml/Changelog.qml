@@ -1,13 +1,22 @@
 /*
  * This file is part of harbour-todolist.
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: Mirian Margiani
+ * SPDX-FileCopyrightText: 2020-2026 Mirian Margiani
+ * SPDX-FileCopyrightText: 2025-2026 Smooth-E
  */
 
 import QtQuick 2.0
 import "modules/Opal/About"
 
 ChangelogList {
+    ChangelogItem {
+        version: "2.0.0.4-1"
+        date: "2026-08-29"
+        paragraphs: [
+            "- Изменены ссылки на исходный код приложения<br>" +
+            "- Исправлено описание пакета"
+        ]
+    }
     ChangelogItem {
         version: "2.0.0.3-1"
         date: "2026-05-20"
