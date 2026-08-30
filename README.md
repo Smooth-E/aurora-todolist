@@ -37,7 +37,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 Если у вас есть какие-то вопросы, предложения или вы столкнулись с проблемой при использовании приложения на ОС Аврора, пожалуйста, оставляйте свои комментарии в [трекере GitHub Issues этого репозитория](https://github.com/salty-smoothie/aurora-todolist/issues).
 
-## Сборка и предложение изменений
+### Сборка и предложение изменений
 
 *Не стесняйтесь сообщать о проблемах и предлагать свои изменения!*
 
@@ -45,7 +45,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 1. Клонируйте этот репозиторий
    ```sh
-   git clone --recurse-submodules https://github.com/Smooth-E/aurora-captains-log
+   git clone --recurse-submodules https://github.com/salty-smoothie/aurora-todolist
    ```
 2. Примените необходимые патчи
    ```sh
@@ -59,7 +59,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 Если вы предлагаете изменения - не забудьте упомянуть себя на странице [`AboutPage`](qml/pages/AboutPage.qml)!
 
-## Финансовая поддержка
+### Финансовая поддержка
 
 Вы можете поддержать разработчика оригинального приложения, [пожертвовав через Liberapay](https://liberapay.com/ichthyosaurus).
 
